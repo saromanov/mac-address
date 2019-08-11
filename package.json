@@ -1,0 +1,22 @@
+{
+  "name": "mac-address",
+  "version": "1.0.0",
+  "description": "Return random mac address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saromanov/mac-address.git"
+  },
+  "keywords": [
+    "mac"
+  ],
+  "author": "Sergey Romanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saromanov/mac-address/issues"
+  },
+  "homepage": "https://github.com/saromanov/mac-address#readme"
+}
